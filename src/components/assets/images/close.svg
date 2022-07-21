@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.79" height="34.79" viewBox="0 0 34.79 34.79">
+  <g id="close" transform="translate(0.75 0.75)">
+    <path id="Path_78720" data-name="Path 78720" d="M16.645,0A16.645,16.645,0,1,1,0,16.645,16.645,16.645,0,0,1,16.645,0Z" transform="translate(0)" fill="#fff" stroke="rgba(172,172,172,0.36)" stroke-width="1.5"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(11.107 11.088)">
+      <g id="Close-2" data-name="Close">
+        <path id="Path_19084" data-name="Path 19084" d="M31.22,31.2a.651.651,0,0,1-.912,0l-3.257-3.242-.456-.454a.644.644,0,0,1,.912-.908l.456.454,3.257,3.24A.644.644,0,0,1,31.22,31.2Z" transform="translate(-19.603 -19.632)" fill="#f93226" stroke="#f93226" stroke-width="0.5"/>
+        <path id="Path_19085" data-name="Path 19085" d="M11.615.187a.651.651,0,0,0-.912,0L5.9,4.969,1.1.187a.649.649,0,0,0-.912,0,.644.644,0,0,0,0,.908l4.8,4.782-4.8,4.782a.64.64,0,0,0,0,.908.647.647,0,0,0,.912,0L11.615,1.1a.642.642,0,0,0,0-.908Z" transform="translate(0.001 0)" fill="#f93226" stroke="#f93226" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
